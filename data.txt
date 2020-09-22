@@ -1,0 +1,5 @@
+foesal 240 O+ CSE F F 36.0 
+nadim 420 O+ CSE F F 42.0 
+aurnob 100 AB- MCT F F 2.0 
+test 123 O+ CSE F F 42.2 
+shoccho 2 AB- BBA A+ A+ 102.0 
